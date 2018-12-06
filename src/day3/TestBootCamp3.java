@@ -7,7 +7,7 @@ public class TestBootCamp3 {
 
 	public static void main(String[] args) {
 		String[]listName = new String[] {"agung","fadil","mufiq"};
-		String data = "fadil";
+		String data = "luqni";
 		List<String>cek = Arrays.asList(listName);
 		System.out.println(data.contains(data)? "ada" : "tidak ada");		
 	    	
